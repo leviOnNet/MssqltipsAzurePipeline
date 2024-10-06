@@ -1,0 +1,16 @@
+{
+    "name": "checkout",
+    "version": "1.0.0",
+    "description": "Checkout service for pub/sub with Dapr on Azure",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "dapr-client": "^2.3.0"
+    }
+}
