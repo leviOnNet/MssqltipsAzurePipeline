@@ -8,5 +8,5 @@ spec:
   version: v1
   metadata:
   - name: connectionString
-    value: "Endpoint=sb://sb-fdrtujfacex4o.servicebus.windows.net/;SharedAccessKeyName=AzureDaprAuthRule;SharedAccessKey=VVMljASrA+7FY+rQmgXaKmKQYyOHNWfkc+ASbKAfp1A=;EntityPath=orders"
+    value: "<Your Connection String>"
    

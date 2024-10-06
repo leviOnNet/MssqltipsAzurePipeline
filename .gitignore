@@ -1,0 +1,1 @@
+#value: "Endpoint=sb://sb-fdrtujfacex4o.servicebus.windows.net/;SharedAccessKeyName=AzureDaprAuthRule;SharedAccessKey=VVMljASrA+7FY+rQmgXaKmKQYyOHNWfkc+ASbKAfp1A=;EntityPath=orders"
