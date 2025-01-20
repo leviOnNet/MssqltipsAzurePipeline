@@ -1,5 +1,6 @@
 {
   "dependencies": {
     "dapr-client": "^3.4.0"
-  }
+  },
+  "main": "index.js"
 }
